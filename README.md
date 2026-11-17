@@ -1,4 +1,7 @@
-# Standalone AI Agents
+# AI Wellness Agents Suite
+
+A 9Falcons AI project with standalone agents for cosmetic analysis, skin analysis, workout planning, and meal planning. Explore our AI agency services at [9Falcons](https://www.9falcons.com/).
+
 
 This folder contains a standalone implementation of 4 specialized AI agents extracted from the Health Agents platform.
 
